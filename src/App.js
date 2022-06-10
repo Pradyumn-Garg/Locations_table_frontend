@@ -89,6 +89,10 @@ export default function App() {
   const onClickofSaveRecord = () => 
   {
     setAddOrEdit("Save")
+    setCity("")
+    setCountryId("")
+    setPostalCode("")
+    setLocationId("")
     handleClickOpen()
   }
 
