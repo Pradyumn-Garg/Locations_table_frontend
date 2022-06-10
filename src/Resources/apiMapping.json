@@ -1,0 +1,8 @@
+{
+    "locationsData": {
+        "getAll": "https://locationsdatabackend.herokuapp.com/locations",
+        "post": "https://locationsdatabackend.herokuapp.com/locations",
+        "put": "https://locationsdatabackend.herokuapp.com/locations",
+        "delete": "https://locationsdatabackend.herokuapp.com/locations"
+    }
+}

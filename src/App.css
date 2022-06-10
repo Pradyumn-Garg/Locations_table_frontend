@@ -1,0 +1,14 @@
+.tableheading{
+  text-align: center;
+}
+
+.table{
+  margin-left: 10vw; 
+  margin-right: 10vw;
+  margin-top: 4vw;
+  background-color: #FEF9A7;
+}
+
+.center{
+  margin-left: 43%;
+}
